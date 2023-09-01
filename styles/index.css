@@ -1,0 +1,38 @@
+h1 {
+    color:black; 
+    font-size: 80px;
+    font-weight: 300;
+    font-style: italic;
+    background-color: rgb(241, 5, 119, 0.696) ;
+    text-align: center; 
+}
+#infoapor {
+    color: peru
+}
+.merinfoapor {
+    color:lightcoral; 
+    font-size: 20px; 
+}
+li {
+    color:pink; 
+    font-style:oblique; 
+}
+body {
+    background-image: url("../images/djungel.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    
+}
+a {
+    color: palevioletred; 
+}
+h3 {
+    color:hotpink;
+}
+img {
+    border-width: 3px;
+    border-style: solid; 
+    border-color: rgb(241, 5, 119); 
+    border-radius: 50%; 
+    box-shadow: 10px 10px 10px rgba(49, 39, 42, 0.605);
+}
